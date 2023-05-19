@@ -40,6 +40,10 @@ Correr archivo main por medio de Jupyter Notebook en un IDE soportado
 ### Archivo del analisis exploratorio: 
 [Google Docs](https://docs.google.com/document/d/1aZ8qUy0BSMBR2hvRaVA1e6TWCQHj2j93Fv8O-QqIdhA/edit?usp=sharing)
 
+
+### Archivo sobre resultados del analisis con ML:
+[Google Docs](https://docs.google.com/document/d/1tky9DwvXXOraie3E91kCDLzd9Rpdg9EU8hCYZ1O9xJg/edit?usp=sharing)
+
 ## Autores
 👤 Andres de la Roca  
 - <a href = "https://www.linkedin.com/in/andr%C3%A8s-de-la-roca-pineda-10a40319b/">Linkedin</a> 
